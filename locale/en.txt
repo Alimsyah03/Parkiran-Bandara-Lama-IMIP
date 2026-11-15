@@ -1,0 +1,74 @@
+#: locale=en
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_CE4E4BD1_DD48_5618_41B4_1E3DF0E49913.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_D2D1B3B5_DDC8_763F_41E5_F6EF7109595E.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CD4325D1_DD48_5266_41C7_5130F1CCB963.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CECDC3B5_DD48_7604_41D0_DAE7CAAEB484.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CDB31D84_DDC7_B2DE_41D9_DE8F1BC70B51.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CCD555EA_DD48_523B_41DB_A0C8BA70D521.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CCF509C9_DD48_D279_41E4_F9956894988F.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CC468F32_DD48_4E2B_41D9_0CDEA9FEDAF5.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CC1F5810_DD48_71E7_41CD_14A49AC75A29.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CC0962C1_DD4B_F669_41EB_3C401C78FCB0.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CF630358_DD48_561A_41D3_BD9462466F83.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CF9B836E_DD48_763B_41E7_C8A5FBBB05C6.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CF5E3AA4_DD48_F628_41D9_5BA7389FADAE.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_D26274D0_DD38_7262_41E2_B35B4077C2A9.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_D34483CC_DD38_7716_41E3_D669C289C7EB.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CE842045_DD49_D27A_41D2_B30BD0DD8DFD.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CF51B0B6_DD48_521F_41D7_3FC5A8FB66E0.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CEDCAD9F_DD4B_B20D_41B0_8B287AAF6C43.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CE92F962_DD4B_B235_41E1_BFE6E466BC0C.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CD1DC726_DD38_DE2F_41B9_5E4F91233E8D.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_D24C2DFA_DD39_D227_41C4_316543014F78.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CDB88AB7_DD38_562C_41D9_BB705649E97D.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_D2000621_DD38_5E25_41A9_CB082C97475C.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CDFADA0E_DD38_71FC_41D0_C311C5758B27.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_D224EB68_DD48_D624_41E0_169FD19AAF1F.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CD660F58_DD48_CE65_41E2_F72D25AF5390.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CF67EB82_DD48_56EF_41CF_8710C04D641E.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CF42B849_DD48_527E_41EA_361E38F202AC.toolTip = Tanggal Pengambila Data : 14 November 2026
+HotspotPanoramaOverlayArea_CF981861_DD48_D233_41BB_6FB923CBC95B.toolTip = Tanggal Pengambila Data : 14 November 2026
+
+## Media
+
+### Title
+panorama_D15CC379_DD38_5707_41D4_C3783EA7AF48.label = 1
+panorama_D7C5AF0E_DD38_4F18_41E2_15F3BAED89BE.label = 10
+panorama_D7C49088_DD38_B119_41E4_9B0B8D10E2FA.label = 11
+panorama_D7C49215_DD38_D10B_41A3_E4E15B780AC8.label = 12
+panorama_D7C49381_DD38_F70A_41C4_70B9C0713079.label = 13
+panorama_D7C4A4EE_DD38_D116_41E4_C8167983BDF0.label = 14
+panorama_D7C4B62E_DD38_B116_41EB_8E3B3F6AC6CD.label = 15
+panorama_D7C49783_DD38_5F0D_41CA_AF5F8CC5157C.label = 16
+panorama_D7C488BF_DD38_7175_41CE_6B1D270CB36B.label = 17
+panorama_D7C4B9E6_DD38_5314_41B9_714DA8C6585D.label = 18
+panorama_D638452D_DD38_731E_41CF_AF298BF9CEA8.label = 2
+panorama_D7C43717_DD38_5F0A_415D_9A88A6EB1BC0.label = 3
+panorama_D7C5A832_DD39_B10B_41E0_1C31612D659B.label = 4
+panorama_D7C5F96A_DD39_D31A_41CE_5D7276F03CBB.label = 5
+panorama_D7C5CB90_DD39_D707_4192_EFB4B3B6EA72.label = 7
+panorama_D7C58C7F_DD39_B1F8_41E3_4387757EC054.label = 8
+panorama_D7C5ADB4_DD38_5308_41D3_11BB8E05AF3D.label = 9
+
+## Skin
+
+### Image
+Image_3A279C77_367D_37A2_41C6_83A6D5CC7CD2.url = skin/Image_3A279C77_367D_37A2_41C6_83A6D5CC7CD2_en.png
+
+### Label
+Label_4D41DC4B_429D_C75C_41CD_EC0C08175678.text = Jelajahi Kawasan Melalui Pengalaman Virtual Interaktif
+Label_5223986E_429A_CF55_41C0_C6CCD89986A9.text = SGA IMIP Virtual Tour | V1.0.© 2026
+
+### Tooltip
+IconButton_3B66C8F8_36B3_B679_4195_F0FC4F2C8A3C.toolTip = Main Menu
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VR Kawasan Parkiran Bandara IMIP
